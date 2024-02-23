@@ -4,7 +4,7 @@
 
 Some quotes I have stumbled upon:
 
-- **Embedded systems have a certain opacity...** by [Scott Seidman](https://electronics.stackexchange.com/q/105294)
+- **Embedded systems have a certain opacity...**  ([Scott Seidman](https://electronics.stackexchange.com/q/105294))
 
 <!--
 **kalleva/kalleva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
